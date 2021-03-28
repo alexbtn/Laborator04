@@ -1,0 +1,3 @@
+include ':phone'
+include ':app'
+rootProject.name = "Contacts Manager"
